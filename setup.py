@@ -21,7 +21,7 @@ setup(
    install_requires=['opencv-python', 'scikit-image', 'scikit-learn==0.18.1',
                       'Pillow',  'matplotlib==2.0.0', 'scipy==1.1.0', 'numpy >= 1.13'],
    include_package_data=True,
-   #url='http://github.com/sametmax/sm_lib',
+   url='http://github.com/samuelquiret/DEAT',
    
    classifiers=[
         "Programming Language :: Python",
